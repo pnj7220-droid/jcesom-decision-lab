@@ -4,7 +4,7 @@ A Streamlit app for leadership policy refresher training.
 
 Marshall University Joan C. Edwards School of Medicine
 Source policy: SOM Student Handbook (July 2024)
-Built by SinglePoint Analytics, LLC
+Built by Dr. Paris N. Johnson
 """
 
 import base64
